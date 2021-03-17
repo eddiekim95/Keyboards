@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri "C:/Users/eddie/OneDrive/Documents/KiCad Libraries/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name promicro_2)(type Legacy)(uri "C:/Users/eddie/OneDrive/Documents/KiCad Libraries/promicro_2.lib")(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri "C:/Users/eddie/OneDrive/Documents/KiCad Libraries/kbd-master/kicad-symbols/kbd.lib")(options "")(descr ""))
+)
