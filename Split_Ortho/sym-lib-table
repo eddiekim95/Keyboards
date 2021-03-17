@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri "C:/Users/eddie/OneDrive/Documents/KiCad Libraries/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri "C:/Users/eddie/OneDrive/Documents/KiCad Libraries/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name promicro_2)(type Legacy)(uri "C:/Users/eddie/OneDrive/Documents/KiCad Libraries/promicro_2.lib")(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri "C:/Users/eddie/OneDrive/Documents/KiCad Libraries/promicro.lib")(options "")(descr ""))
+  (lib (name Lily58-cache)(type Legacy)(uri "C:/Users/eddie/OneDrive/Documents/KiCad Keyboards/Lily58-master/pcb/Lily58-cache.lib")(options "")(descr ""))
+)
